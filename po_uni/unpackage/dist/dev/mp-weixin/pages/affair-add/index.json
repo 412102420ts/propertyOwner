@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新增事务",
+  "usingComponents": {
+    "uni-data-picker": "../../uni_modules/uni-data-picker/components/uni-data-picker/uni-data-picker",
+    "uni-file-picker": "../../uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker"
+  }
+}

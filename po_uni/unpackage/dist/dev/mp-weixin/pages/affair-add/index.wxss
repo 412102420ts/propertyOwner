@@ -1,0 +1,33 @@
+.affair-add.data-v-46c13a59 {
+  padding: 24rpx 30rpx;
+}
+.affair-add .affair-form .form-item.data-v-46c13a59 {
+  margin-bottom: 40rpx;
+}
+.affair-add .affair-form .form-item .label.data-v-46c13a59 {
+  color: #252525;
+  margin-bottom: 20rpx;
+  font-size: 34rpx;
+}
+.affair-add .affair-form .form-item .input-box.data-v-46c13a59 {
+  width: 100%;
+}
+.affair-add .affair-form .form-item .input-box .sel-region.data-v-46c13a59 {
+  width: 60%;
+}
+.affair-add .affair-form .form-item .input-box .upload-img v-deep .file-picker__box.data-v-46c13a59 {
+  width: 20%;
+}
+.affair-add .btn-list.data-v-46c13a59 {
+  position: fixed;
+  bottom: 30rpx;
+  left: 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.affair-add .btn-list button.data-v-46c13a59 {
+  width: 40%;
+  font-size: 24rpx;
+  line-height: 65rpx;
+}

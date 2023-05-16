@@ -1,0 +1,46 @@
+.input-pop-box {
+    .box {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        width: 500rpx;
+        height: 400rpx;
+        z-index: 21;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        border-radius: 28rpx;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .title {
+            padding: 24rpx 0;
+            font-weight: bold;
+            font-size: 36rpx;
+            text-align: center;
+        }
+        .input-box {
+            padding: 20rpx 0;
+            margin: 0 auto;
+            position: relative;
+            .no-null {
+                color: red;
+                position: absolute;
+                bottom: -10px;
+            }
+        }
+        .btn-box {
+            border-top: 1rpx solid #f5f5f5;
+            display: flex;
+            .btn {
+                width: 50%;
+                padding: 40rpx 60rpx;
+                color: #252525;
+                text-align: center;
+            }
+            .submit {
+                border-left: 1rpx solid #f5f5f5;
+                color: #1165e2;
+            }
+        }
+    }
+}

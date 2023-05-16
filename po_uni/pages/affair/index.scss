@@ -1,0 +1,88 @@
+.affair {
+    padding: 24rpx;
+    .search {
+        // display: flex;
+        // justify-content: right;
+        text-align: right;
+        padding: 10rpx 24rpx;
+        // image {
+        //     width: 60rpx;
+        //     height: 60rpx;
+        // }
+    }
+    .affair-list {
+        .affair-item {
+            background-color: #f7f7f7;
+            border-radius: 16rpx;
+            padding: 24rpx;
+            display: flex;
+            align-items: center;
+            margin-bottom: 20rpx;
+            .affair-img {
+                width: 120rpx;
+                height: 120rpx;
+                margin-right: 20rpx;
+            }
+            .box {
+                flex: 1;
+                .one {
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 20rpx;
+                    .loc {
+                        color: #999;
+                        text {
+                            color: #252525;
+                            font-weight: bold;
+                        }
+                    }
+                    .status {
+                        border-radius: 8rpx;
+                        padding: 6rpx 16rpx;
+                        color: #fff;
+                        background-color: #ff1010;
+                    }
+                    .status-1 {
+                        background-color: #3ffd19;
+                    }
+                    .status-2 {
+                        background-color: #999;
+                    }
+                }
+                .content {
+                    display: -webkit-box;    
+                    -webkit-box-orient: vertical;    
+                    -webkit-line-clamp: 2;    
+                    overflow: hidden;
+                    margin-bottom: 20rpx;
+                }
+                .two {
+                    display: flex;
+                    justify-content: space-between;
+                    .two-item {
+                        color: #999;
+                        .two-con {
+                            color: #252525;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .add-affair {
+        position: fixed;
+        right: 40rpx;
+        bottom: 150rpx;
+        // border: 1rpx solid #333333;
+        background-color: #e9e9e9;
+        border-radius: 50%;
+        padding: 20rpx;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        // image {
+        //     width: 30rpx;
+        //     height: 30rpx;
+        // }
+    }
+}

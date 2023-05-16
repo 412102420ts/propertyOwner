@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "事务",
+  "usingComponents": {
+    "search-box": "../../components/search-box/index",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

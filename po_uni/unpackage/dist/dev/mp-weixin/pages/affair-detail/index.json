@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "事务详情",
+  "usingComponents": {
+    "message-input": "../../components/message-input/index",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

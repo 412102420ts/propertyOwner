@@ -1,0 +1,70 @@
+.login {
+    padding: 40rpx 0 0;
+    .title {
+        text-align: center;
+        color: 252525;
+        font-weight: bold;
+    }
+    .box {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 90%;
+        margin: 100rpx auto 70rpx;
+        .phone {
+            margin-bottom: 30rpx;
+        }
+        .password {
+            display: flex;
+            align-items: center;
+            input {
+                flex: 1;
+            }
+            .get-code {
+                color: #1165e2;
+                min-width: 100rpx;
+                padding: 14rpx 20rpx;     
+		        border-radius: 0 16rpx;
+            }
+            .code-not {
+                color: #999;
+            }
+        }
+    }
+    .login-btn {
+        width: 400rpx;
+        text-align: center;
+        padding: 16rpx 0;
+        border-radius: 40rpx;
+        font-size: 36rpx;
+        color: #fff;
+        font-weight: bold;
+        margin: 0 auto;
+        background-color: #3d86f3;
+    }
+    .change-btns {
+        margin: 0 auto;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        .btn {
+            width: 40%;
+        }
+    }
+    .btn {
+        width: 400rpx;
+        text-align: center;
+        padding: 16rpx 0;
+        border-radius: 40rpx;
+        font-size: 36rpx;
+        font-weight: bold;
+        margin: 0 auto;
+        color: #3d86f3;
+        border: 1rpx solid #3d86f3;
+        background-color: #fff;
+    }
+    .btn-submit {
+        color: #fff;
+        background-color: #3d86f3;
+    }
+}

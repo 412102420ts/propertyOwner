@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-data-checkbox": "../../uni_modules/uni-data-checkbox/components/uni-data-checkbox/uni-data-checkbox",
+    "uni-data-picker": "../../uni_modules/uni-data-picker/components/uni-data-picker/uni-data-picker",
+    "uni-datetime-picker": "../../uni_modules/uni-datetime-picker/components/uni-datetime-picker/uni-datetime-picker"
+  }
+}

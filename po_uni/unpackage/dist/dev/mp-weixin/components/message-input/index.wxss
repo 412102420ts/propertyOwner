@@ -1,0 +1,55 @@
+.message-input .box.data-v-1ca4071c {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 21;
+  background-color: #fff;
+  border-radius: 28rpx 28rpx 0 0;
+}
+.message-input .box .title.data-v-1ca4071c {
+  padding: 24rpx 0;
+  font-weight: bold;
+  font-size: 36rpx;
+  text-align: center;
+}
+.message-input .box .title image.data-v-1ca4071c {
+  position: absolute;
+  right: 10rpx;
+  width: 60rpx;
+  height: 60rpx;
+  transform: rotate(45deg);
+}
+.message-input .box .input-box.data-v-1ca4071c {
+  padding: 20rpx 0;
+  margin: 0 auto;
+  position: relative;
+  width: calc(100% - 48rpx);
+}
+.message-input .box .input-box .no-null.data-v-1ca4071c {
+  color: red;
+  position: absolute;
+  bottom: -10px;
+}
+.message-input .box .upload.data-v-1ca4071c {
+  margin-bottom: 40rpx;
+}
+.message-input .box .upload .label.data-v-1ca4071c {
+  color: #252525;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+  margin-left: 24rpx;
+}
+.message-input .box .upload .search-img.data-v-1ca4071c {
+  padding: 0 24rpx;
+}
+.message-input .box .btn-box.data-v-1ca4071c {
+  border-top: 1rpx solid #f5f5f5;
+}
+.message-input .box .btn-box .btn.data-v-1ca4071c {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20rpx 60rpx;
+  color: #1165e2;
+  text-align: center;
+}

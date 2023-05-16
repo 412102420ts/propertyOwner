@@ -1,0 +1,70 @@
+.login.data-v-4586967a {
+  padding: 40rpx 0 0;
+}
+.login .title.data-v-4586967a {
+  text-align: center;
+  color: 252525;
+  font-weight: bold;
+}
+.login .box.data-v-4586967a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  margin: 100rpx auto 70rpx;
+}
+.login .box .phone.data-v-4586967a {
+  margin-bottom: 30rpx;
+}
+.login .box .password.data-v-4586967a {
+  display: flex;
+  align-items: center;
+}
+.login .box .password input.data-v-4586967a {
+  flex: 1;
+}
+.login .box .password .get-code.data-v-4586967a {
+  color: #1165e2;
+  min-width: 100rpx;
+  padding: 14rpx 20rpx;
+  border-radius: 0 16rpx;
+}
+.login .box .password .code-not.data-v-4586967a {
+  color: #999;
+}
+.login .login-btn.data-v-4586967a {
+  width: 400rpx;
+  text-align: center;
+  padding: 16rpx 0;
+  border-radius: 40rpx;
+  font-size: 36rpx;
+  color: #fff;
+  font-weight: bold;
+  margin: 0 auto;
+  background-color: #3d86f3;
+}
+.login .change-btns.data-v-4586967a {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.login .change-btns .btn.data-v-4586967a {
+  width: 40%;
+}
+.login .btn.data-v-4586967a {
+  width: 400rpx;
+  text-align: center;
+  padding: 16rpx 0;
+  border-radius: 40rpx;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin: 0 auto;
+  color: #3d86f3;
+  border: 1rpx solid #3d86f3;
+  background-color: #fff;
+}
+.login .btn-submit.data-v-4586967a {
+  color: #fff;
+  background-color: #3d86f3;
+}

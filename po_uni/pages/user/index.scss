@@ -1,0 +1,38 @@
+.user {
+    padding: 24rpx;
+    font-size: 24rpx;
+    .user-info {
+        margin-bottom: 60rpx;
+        .user-img {
+            border-radius: 50%;
+            width: 120rpx;
+            height: 120rpx;
+            margin: 0 auto;
+            display: inherit;
+        }
+        .user-name {
+            margin-top: 15rpx;
+            text-align: center;
+            color: #252525;
+            font-size: 28rpx;
+        }
+    }
+    .btn-list {
+        background-color: #f7f7f7;
+        padding: 24rpx;
+        border-radius: 28rpx;
+        .btn-item {
+            border-bottom: 1rpx solid #fff;
+            display: flex;
+            justify-content: space-between;
+            padding: 20rpx 20rpx;
+        }
+        :last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        :first-child {
+            padding-top: 0;
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/notice/index",
+    "pages/affair/index",
+    "pages/affair-add/index",
+    "pages/affair-detail/index",
+    "pages/information/index",
+    "pages/user/index",
+    "pages/chat/index",
+    "pages/login/index",
+    "uni_modules/uni-upgrade-center-app/pages/upgrade-popup"
+  ],
+  "subPackages": [],
+  "window": {
+    "pageOrientation": "portrait",
+    "navigationBarTitleText": "po_uni",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#fff",
+    "backgroundColorTop": "#F4F5F6",
+    "backgroundColorBottom": "#F4F5F6"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/notice/index",
+        "iconPath": "static/component.png",
+        "selectedIconPath": "static/componentHL.png",
+        "text": "公告"
+      },
+      {
+        "pagePath": "pages/affair/index",
+        "iconPath": "static/api.png",
+        "selectedIconPath": "static/apiHL.png",
+        "text": "事务"
+      },
+      {
+        "pagePath": "pages/information/index",
+        "iconPath": "static/extui.png",
+        "selectedIconPath": "static/extuiHL.png",
+        "text": "公示"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/template.png",
+        "selectedIconPath": "static/templateHL.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "演示定位能力"
+    }
+  },
+  "usingComponents": {}
+}

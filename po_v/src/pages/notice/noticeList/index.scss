@@ -1,0 +1,23 @@
+.noticeList {
+    .search-box {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        background-color: #f7f7f7;
+        padding: 15px;
+        border-radius: 5px;
+        .btn-box {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+    }
+    .container {
+        margin: 10px 0;
+    }
+    .list-pagination {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 10px;
+    }
+}

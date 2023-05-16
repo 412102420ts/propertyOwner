@@ -1,0 +1,122 @@
+.affair-detail.data-v-1313352f {
+  padding: 24rpx;
+}
+.affair-detail .top.data-v-1313352f {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+  border-bottom: 1rpx solid #999;
+  padding-bottom: 20rpx;
+}
+.affair-detail .top .loc.data-v-1313352f {
+  color: #999;
+}
+.affair-detail .top .loc text.data-v-1313352f {
+  color: #252525;
+  font-weight: bold;
+}
+.affair-detail .top .status.data-v-1313352f {
+  border-radius: 8rpx;
+  padding: 6rpx 16rpx;
+  color: #fff;
+  background-color: #ff1010;
+}
+.affair-detail .top .status-1.data-v-1313352f {
+  background-color: #3ffd19;
+}
+.affair-detail .top .status-2.data-v-1313352f {
+  background-color: #999;
+}
+.affair-detail .swiper.data-v-1313352f {
+  height: 300rpx;
+  margin-bottom: 20rpx;
+}
+.affair-detail .swiper .swiper-item.data-v-1313352f {
+  display: block;
+  height: 300rpx;
+  line-height: 300rpx;
+  text-align: center;
+}
+.affair-detail .affair-info.data-v-1313352f {
+  border-radius: 8rpx;
+  background-color: #f7f7f7;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+}
+.affair-detail .affair-info .content.data-v-1313352f {
+  word-break: break-all;
+  font-size: 28rpx;
+  margin-bottom: 20rpx;
+}
+.affair-detail .affair-info .time.data-v-1313352f {
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.affair-detail .affair-info .time .time-item.data-v-1313352f {
+  color: #999;
+}
+.affair-detail .affair-info .time .time-item .time-con.data-v-1313352f {
+  color: #252525;
+}
+.affair-detail .affair-info .bottom.data-v-1313352f {
+  display: flex;
+  justify-content: space-between;
+}
+.affair-detail .affair-info .bottom .contact-btn.data-v-1313352f {
+  font-size: 20rpx;
+  line-height: 40rpx;
+  margin: 0;
+}
+.affair-detail .affair-info .bottom .deal-user.data-v-1313352f {
+  color: #999;
+}
+.affair-detail .affair-info .bottom .deal-user text.data-v-1313352f {
+  color: #252525;
+}
+.affair-detail .message-list.data-v-1313352f {
+  background-color: #f7f7f7;
+  padding: 24rpx;
+  border-radius: 8rpx;
+}
+.affair-detail .message-list .message-input.data-v-1313352f {
+  padding: 10rpx 20rpx;
+  border-radius: 20rpx;
+  border: 1rpx solid #999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #999;
+  margin-bottom: 20rpx;
+}
+.affair-detail .message-list .message-input image.data-v-1313352f {
+  width: 50rpx;
+  height: 50rpx;
+}
+.affair-detail .message-list .message-item.data-v-1313352f {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.affair-detail .message-list .message-item image.data-v-1313352f {
+  border-radius: 50%;
+  border: 1rpx solid #999;
+  width: 120rpx;
+  height: 120rpx;
+  margin-right: 20rpx;
+}
+.affair-detail .message-list .message-item .context.data-v-1313352f {
+  flex: 1;
+}
+.affair-detail .message-list .message-item .context .nickname.data-v-1313352f {
+  font-size: 28rpx;
+  color: #252525;
+  margin-bottom: 10rpx;
+}
+.affair-detail .message-list .message-item .context .message-con.data-v-1313352f {
+  border-radius: 0 16rpx 16rpx;
+  background-color: #d0cece;
+  padding: 10rpx;
+  word-break: break-word;
+}

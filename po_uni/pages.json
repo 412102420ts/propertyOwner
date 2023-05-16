@@ -1,0 +1,117 @@
+{
+	"pages": [
+		{
+			"path": "pages/notice/index",
+			"style": {
+				"navigationBarTitleText": "通知"
+			}
+		},
+		{
+			"path": "pages/affair/index",
+			"style": {
+				"navigationBarTitleText": "事务"
+			}
+		},
+		{
+			"path": "pages/affair-add/index",
+			"style": {
+				"navigationBarTitleText": "新增事务"
+			}
+		},
+		{
+			"path": "pages/affair-detail/index",
+			"style": {
+				"navigationBarTitleText": "事务详情"
+			}
+		},
+		{
+			"path": "pages/information/index",
+			"style": {
+				"navigationBarTitleText": "公示"
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/chat/index",
+			"style": {
+				"navigationBarTitleText": "客服"
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+		,{
+			"path": "uni_modules/uni-upgrade-center-app/pages/upgrade-popup",
+			"style": {
+				"app-plus": {
+					"animationDuration": 200,
+					"animationType": "fade-in",
+					"background": "transparent",
+					"backgroundColorTop": "transparent",
+					"popGesture": "none",
+					"scrollIndicator": false,
+					"titleNView": false
+				},
+				"disableScroll": true
+			}
+		}
+	],
+	"subPackages": [
+
+	],
+	"globalStyle": {
+		"pageOrientation": "portrait",
+		"navigationBarTitleText": "po_uni",
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#fff",
+		"backgroundColorTop": "#F4F5F6",
+		"backgroundColorBottom": "#F4F5F6",
+		"mp-360": {
+			"navigationStyle": "custom"
+		},
+		"h5": {
+			"maxWidth": 1190,
+			"navigationBarTextStyle": "black",
+			"navigationBarBackgroundColor": "#F1F1F1"
+		}
+
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/notice/index",
+				"iconPath": "static/component.png",
+				"selectedIconPath": "static/componentHL.png",
+				"text": "通知"
+			},
+			{
+				"pagePath": "pages/affair/index",
+				"iconPath": "static/api.png",
+				"selectedIconPath": "static/apiHL.png",
+				"text": "事务"
+			}, {
+				"pagePath": "pages/information/index",
+				"iconPath": "static/extui.png",
+				"selectedIconPath": "static/extuiHL.png",
+				"text": "公示"
+			}, {
+				"pagePath": "pages/user/index",
+				"iconPath": "static/template.png",
+				"selectedIconPath": "static/templateHL.png",
+				"text": "我的"
+			}
+		]
+	}
+}

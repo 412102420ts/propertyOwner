@@ -1,0 +1,165 @@
+.chat.data-v-3fea99d8 {
+  height: 94.5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.chat .scroll-Y.data-v-3fea99d8 {
+  display: flex;
+  padding-bottom: 100rpx;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.chat .info-list.data-v-3fea99d8 {
+  padding: 24rpx;
+}
+.chat .info-list .info-item.data-v-3fea99d8 {
+  margin-bottom: 20rpx;
+}
+.chat .info-list .info-item .info-left.data-v-3fea99d8 {
+  display: flex;
+  align-items: center;
+}
+.chat .info-list .info-item .info-left .info-context.data-v-3fea99d8 {
+  margin-left: 20rpx;
+}
+.chat .info-list .info-item .info-left .info-context .context.data-v-3fea99d8 {
+  background-color: aquamarine;
+  border-radius: 0 26rpx 26rpx;
+}
+.chat .info-list .info-item .info-right.data-v-3fea99d8 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.chat .info-list .info-item .info-right .info-context.data-v-3fea99d8 {
+  margin-right: 20rpx;
+}
+.chat .info-list .info-item .info-right .info-context .username.data-v-3fea99d8 {
+  text-align: right;
+}
+.chat .info-list .info-item .info-right .info-context .context.data-v-3fea99d8 {
+  background-color: aqua;
+  border-radius: 26rpx 0 26rpx 26rpx;
+}
+.chat .info-list .info-item .info-context .username.data-v-3fea99d8 {
+  margin-bottom: 10rpx;
+  color: #252525;
+}
+.chat .info-list .info-item .info-context .context.data-v-3fea99d8 {
+  padding: 10rpx 16rpx;
+  word-break: break-word;
+  max-width: 250rpx;
+}
+.chat .info-list .info-item .info-img.data-v-3fea99d8 {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+  border: 1rpx solid #999;
+}
+.chat .info-link.data-v-3fea99d8 {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 30rpx;
+  border-radius: 16rpx;
+}
+.chat .info-link .link-info.data-v-3fea99d8 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24rpx;
+}
+.chat .info-link .link-info image.data-v-3fea99d8 {
+  width: 120rpx;
+  height: 120rpx;
+  margin-right: 20rpx;
+  border-radius: 10rpx;
+}
+.chat .info-link .link-info .link-box.data-v-3fea99d8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.chat .info-link .link-info .link-box .label.data-v-3fea99d8 {
+  color: #999;
+}
+.chat .info-link .link-info .link-box .label text.data-v-3fea99d8 {
+  color: #252525;
+  font-weight: bold;
+}
+.chat .info-link .link-info .link-box .content.data-v-3fea99d8 {
+  word-break: break-word;
+  margin-bottom: 10rpx;
+}
+.chat .info-link .link-info .link-box .bottom.data-v-3fea99d8 {
+  color: #999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.chat .info-link .link-info .link-box .bottom .status.data-v-3fea99d8 {
+  border-radius: 8rpx;
+  padding: 6rpx 16rpx;
+  color: #fff;
+  background-color: #ff1010;
+}
+.chat .info-link .link-info .link-box .bottom .status-1.data-v-3fea99d8 {
+  background-color: #3ffd19;
+}
+.chat .info-link .link-info .link-box .bottom .status-2.data-v-3fea99d8 {
+  background-color: #999;
+}
+.chat .info-link .send-link.data-v-3fea99d8 {
+  border-top: 1rpx solid #999;
+  padding: 24rpx;
+  color: aqua;
+  text-align: center;
+  font-size: 36rpx;
+}
+.chat .operation.data-v-3fea99d8 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+}
+.chat .operation .operation-box.data-v-3fea99d8 {
+  padding: 10rpx 20rpx;
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1rpx solid #999;
+}
+.chat .operation .operation-box .add-img.data-v-3fea99d8 {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  border: 1rpx solid #999;
+}
+.chat .operation .operation-box input.data-v-3fea99d8 {
+  flex: 1;
+  margin: 0 20rpx;
+}
+.chat .operation .operation-box .send-btn.data-v-3fea99d8 {
+  margin: 0 0 0 20rpx;
+}
+.chat .operation .sel-img.data-v-3fea99d8 {
+  border-top: 1rpx solid #999;
+  padding: 24rpx;
+  display: flex;
+}
+.chat .operation .sel-img .sel-img-item.data-v-3fea99d8 {
+  width: 120rpx;
+  height: 120rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20rpx;
+  border: 1rpx solid #d3d3d3;
+  border-radius: 8rpx;
+}
+.chat .operation .sel-img .sel-img-item image.data-v-3fea99d8 {
+  width: 60rpx;
+  height: 60rpx;
+}

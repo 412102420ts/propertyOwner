@@ -1,0 +1,44 @@
+.input-pop-box .box.data-v-310ff038 {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 500rpx;
+  height: 400rpx;
+  z-index: 21;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  border-radius: 28rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.input-pop-box .box .title.data-v-310ff038 {
+  padding: 24rpx 0;
+  font-weight: bold;
+  font-size: 36rpx;
+  text-align: center;
+}
+.input-pop-box .box .input-box.data-v-310ff038 {
+  padding: 20rpx 0;
+  margin: 0 auto;
+  position: relative;
+}
+.input-pop-box .box .input-box .no-null.data-v-310ff038 {
+  color: red;
+  position: absolute;
+  bottom: -10px;
+}
+.input-pop-box .box .btn-box.data-v-310ff038 {
+  border-top: 1rpx solid #f5f5f5;
+  display: flex;
+}
+.input-pop-box .box .btn-box .btn.data-v-310ff038 {
+  width: 50%;
+  padding: 40rpx 60rpx;
+  color: #252525;
+  text-align: center;
+}
+.input-pop-box .box .btn-box .submit.data-v-310ff038 {
+  border-left: 1rpx solid #f5f5f5;
+  color: #1165e2;
+}

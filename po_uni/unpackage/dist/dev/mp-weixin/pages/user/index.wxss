@@ -1,0 +1,38 @@
+.user.data-v-137d5072 {
+  padding: 24rpx;
+  font-size: 24rpx;
+}
+.user .user-info.data-v-137d5072 {
+  margin-bottom: 60rpx;
+}
+.user .user-info .user-img.data-v-137d5072 {
+  border-radius: 50%;
+  width: 120rpx;
+  height: 120rpx;
+  margin: 0 auto;
+  display: inherit;
+}
+.user .user-info .user-name.data-v-137d5072 {
+  margin-top: 15rpx;
+  text-align: center;
+  color: #252525;
+  font-size: 28rpx;
+}
+.user .btn-list.data-v-137d5072 {
+  background-color: #f7f7f7;
+  padding: 24rpx;
+  border-radius: 28rpx;
+}
+.user .btn-list .btn-item.data-v-137d5072 {
+  border-bottom: 1rpx solid #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx 20rpx;
+}
+.user .btn-list.data-v-137d5072 :last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.user .btn-list.data-v-137d5072 :first-child {
+  padding-top: 0;
+}
